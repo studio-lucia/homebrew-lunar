@@ -5,7 +5,7 @@ class Wdtools < Formula
 
   stable do
     url "https://github.com/suppertails66/wdtools.git",
-    :revision => "f1ba0e0dc86468fb341d908c5a399e4ab2d624aa"
+      :revision => "f1ba0e0dc86468fb341d908c5a399e4ab2d624aa"
     version "2017-04-09+gitf1ba0e0dc86468fb341d908c5a399e4ab2d624aa"
 
     patch do
