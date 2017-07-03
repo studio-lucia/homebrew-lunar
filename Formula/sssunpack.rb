@@ -1,8 +1,8 @@
 class Sssunpack < Formula
   desc "Unpack Lunar: Silver Star Story Complete data files"
   homepage "https://github.com/mistydemeo/sssunpack"
-  url "https://github.com/mistydemeo/sssunpack/archive/v0.2.0.tar.gz"
-  sha256 "24ca41fa31de91c54087f2e63c1468f68b664ee187214fdd0aca8b7b02cadfc3"
+  url "https://github.com/mistydemeo/sssunpack/archive/v0.3.0.tar.gz"
+  sha256 "a72ea8bbe44b4b3b8675d39642c53f3513e5da63a0165ad3fe7c81fd0a6f83d0"
   head "https://github.com/mistydemeo/sssunpack.git"
 
   depends_on "rust" => :build
