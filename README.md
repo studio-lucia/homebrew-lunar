@@ -11,3 +11,7 @@ Unpacks data files from Lunar: Silver Star Story Complete (1997) for the Saturn.
 ### [theSegSat](https://github.com/doyousketch2/theSegSat)
 
 Font viewer and editor for Lunar: Silver Star Story (1996) for the Saturn. Note: this tool currently doesn't support Complete.
+
+### [wdtools](https://github.com/suppertails66/wdtools)
+
+Various tools for managing data from different Working Designs games.
