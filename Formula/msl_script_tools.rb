@@ -12,7 +12,6 @@ class MslScriptTools < Formula
   end
 
   test do
-    system "#{bin}/fldpack", "--help"
-    system "#{bin}/fldunpack", "--help"
+    system "#{bin}/msl_script_dump", "--help"
   end
 end
